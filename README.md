@@ -34,7 +34,7 @@ A Python-based desktop application that combines task management, Pomodoro timer
 
 1. Clone the repository
 -bash
--git clone https://github.com/your-username/task-management-app.git
+-git clone
 -cd task-management-app
 
 2. Install required packages
